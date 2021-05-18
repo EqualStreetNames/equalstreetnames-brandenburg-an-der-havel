@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Berner Straße",wikidata,,Q70,way
+"Prager Straße",wikidata,,Q1085,way
 Abtstraße,,,,way
 Adlerstraße,,,,way
 Ahornstraße,,,,way
@@ -83,8 +84,6 @@ Askanierstraße,,,,way
 Asternweg,,,,way
 Auenbogen,,,,way
 "Auf dem Zolchberg",,,,way
-August-Bebel-Straße,,,,way
-August-Sonntag-Straße,,,,way
 Augustastraße,,,,way
 Ausbau,,,,way
 Azaleenweg,,,,way
@@ -99,7 +98,6 @@ Barnimstraße,,,,way
 Bassinweg,,,,way
 Bauhofstraße,,,,way
 Bayernstraße,,,,way
-Beethovenstraße,,,,way
 Beetzseeufer,,,,way
 Begonienweg,,,,way
 "Belziger Chaussee",,,,way
@@ -145,14 +143,12 @@ Büttelstraße,,,,way
 "Butzower Weg",,,,way
 Caasmannstraße,,,,way
 Carl-Ferdinand-Wiesike-Straße,,,,way
-Carl-Reichstein-Straße,,,,way
 Carolinenring,,,,way
 Charlottenhof,,,,way
 "Charlottenhofer Weg",,,,way
 Chausseestraße,,,,way
 "Chemnitzer Weg",,,,way
 Christinenstraße,,,,way
-Clara-Zetkin-Straße,,,,way
 Dahlienweg,,,,way
 Damaschkestraße,,,,way
 "Der Temnitz",,,,way
@@ -177,7 +173,6 @@ Einsteinstraße,,,,way
 Elisabethstraße,,,,way
 Emsterstraße,,,,way
 Erich-Baron-Straße,,,,way
-Erich-Knauf-Straße,,,,way
 Erlenweg,,,,way
 Ernst-Paul-Lehmann-Straße,,,,way
 Eulenbogen,,,,way
@@ -187,7 +182,6 @@ Fasanenbogen,,,,way
 Feldstraße,,,,way
 Feldweg,,,,way
 Felsbergstraße,,,,way
-Ferdinand-Lassalle-Straße,,,,way
 Feuerwehrgasse,,,,way
 Fichtenweg,,,,way
 Finkenweg,,,,way
@@ -198,7 +192,6 @@ Flutstraße,,,,way
 Fontanestraße,,,,way
 Försterbrücke,,,,way
 Forstweg,,,,way
-Fouquéstraße,,,,way
 Frankenstraße,,,,way
 Franz-Ziegler-Straße,,,,way
 Freiheitsweg,,,,way
@@ -221,12 +214,10 @@ Geranienweg,,,,way
 Gerberaweg,,,,way
 Gerostraße,,,,way
 Gertraudenstraße,,,,way
-Gertrud-Piter-Platz,,,,way
 Geschwister-Scholl-Straße,,,,way
 Gladiolenweg,,,,way
 Gobbinstraße,,,,way
 Gödenstraße,,,,way
-Goethestraße,,,,way
 Gördenallee,,,,way
 Gördenbrücke,,,,way
 Görisgräben,,,,way
@@ -270,7 +261,6 @@ Hausmannstraße,,,,way
 Havelbogen,,,,way
 Havelstraße,,,,way
 Havelufer,,,,way
-Haydnstraße,,,,way
 "Heidelberger Straße",,,,way
 Heidestraße,,,,way
 Heinrich-Heine-Ufer,,,,way
@@ -300,9 +290,6 @@ Jungfernsteig,,,,way
 "Kaltenhausener Weg",,,,way
 Kanalstraße,,,,way
 Kapellenstraße,,,,way
-Karl-Kautsky-Straße,,,,way
-Karl-Liebknecht-Straße,,,,way
-Karl-Marx-Straße,,,,way
 Karl-Sachs-Straße,,,,way
 Kastanienweg,,,,way
 Katharinenkirchplatz,,,,way
@@ -342,7 +329,6 @@ Kreyssigstraße,,,,way
 Krokusring,,,,way
 Kummerléstraße,,,,way
 Kurstraße,,,,way
-Kurt-Wabbel-Straße,,,,way
 "Kurze Straße",,,,way
 Küsterstraße,,,,way
 "Langer Weg",,,,way
@@ -352,7 +338,6 @@ Lehmberg,,,,way
 Lewaldstraße,,,,way
 Libellenweg,,,,way
 Lilienweg,,,,way
-Lilli-Friesicke-Straße,,,,way
 Lindenstraße,,,,way
 Linienstraße,,,,way
 Lortzingstraße,,,,way
@@ -390,8 +375,6 @@ Mittelweg,,,,way
 Molkenmarkt,,,,way
 "Mötzower Landstraße",,,,way
 "Mötzower Weg",,,,way
-Mozartplatz,,,,way
-Mozartstraße,,,,way
 Mühlenbogen,,,,way
 Mühlendamm,,,,way
 Mühlentorstraße,,,,way
@@ -412,7 +395,6 @@ Neu-Plauer-Weg,,,,way
 "Neustädtische Heidestraße",,,,way
 "Neustädtische Wassertorstraße",,,,way
 "Neustädtischer Markt",,,,way
-Nicolaiplatz,,,,relation
 Nikolaus-von-Halem-Straße,,,,way
 Nordring,,,,way
 "Nußlocher Weg",,,,way
@@ -452,7 +434,6 @@ Plauerhof,,,,way
 Postplatz,,,,way
 "Potsdamer Landstraße",,,,way
 "Potsdamer Straße",,,,way
-"Prager Straße",,,,way
 Prignitzstraße,,,,way
 Primelweg,,,,way
 Prötzelweg,,,,way
@@ -475,7 +456,6 @@ Rhinweg,,,,way
 "Rietzer Straße",,,,way
 "Rietzer Weg",,,,way
 Ritterstraße,,,,way
-Robert-Koch-Straße,,,,way
 Robinienweg,,,,way
 Rochowstraße,,,,way
 Rosa-Luxemburg-Allee,,,,way
@@ -559,7 +539,6 @@ Ulmenweg,,,,way
 "Unter den Platanen",,,,way
 Upstallstraße,,,,way
 Veilchenweg,,,,way
-Venise-Gosnat-Straße,,,,way
 Vereinsstraße,,,,way
 "Viesener Straße",,,,way
 Vorwerkstraße,,,,way
@@ -569,7 +548,6 @@ Waldstraße,,,,way
 Wallpromenade,,,,way
 Wallstraße,,,,way
 Walther-Ausländer-Straße,,,,way
-Walther-Rathenau-Platz,,,,way
 "Wanderweg nach Plaue",,,,way
 "Warschauer Straße",,,,way
 Wassertorpromenade,,,,way
@@ -586,8 +564,6 @@ Werner-Seelenbinder-Straße,,,,way
 "Wiener Straße",,,,way
 Wiesenweg,,,,way
 Wilhelm-Gottschalk-Straße,,,,way
-Wilhelm-Meinicke-Straße,,,,way
-Wilhelm-Weitling-Straße,,,,way
 Wilhelmsdorf,,,,way
 "Wilhelmsdorfer Landstraße",,,,way
 "Wilhelmsdorfer Straße",,,,way
@@ -604,7 +580,6 @@ Wredowstraße,,,,way
 "Wuster Straße",,,,way
 "Wusterauer Anger",,,,way
 "Wusterwitzer Straße",,,,way
-Zanderstraße,,,,way
 Zauchestraße,,,,way
 Ziegelstraße,,,,way
 "Ziesarer Landstraße",,,,way
