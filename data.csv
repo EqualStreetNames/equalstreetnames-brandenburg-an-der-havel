@@ -1,32 +1,42 @@
 type,id,name,gender,person,description
-way,4640087,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,4682503,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,4694598,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,29137443,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,133874116,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,171985872,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,321123470,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,321131951,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,321134463,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,358303061,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,358303062,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,450728355,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,512643987,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,802595717,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,802595718,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,802595719,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,802595720,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,802595721,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,802595722,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,802595723,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,802595724,Zanderstraße,M,Georg Friedrich Zander,(Wahrscheinlich) Staatsoberhaupt von Brandenburg (1821-1839)
-way,4724472,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
-way,94156132,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
-way,120368108,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
-way,120368110,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
-way,146708927,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
-way,146708928,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
-way,146708929,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
-way,146708930,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
-way,146921934,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
-way,159537411,Venise-Gosnat-Straße,M,Venise Gosnat, stellv. Bürgermeister der Stadt Ivry-sur-Seine
+way,4640087,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,4682503,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,4694598,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,29137443,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,133874116,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,171985872,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,321123470,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,321131951,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,321134463,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,358303061,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,358303062,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,450728355,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,512643987,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,802595717,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,802595718,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,802595719,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,802595720,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,802595721,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,802595722,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,802595723,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,802595724,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
+way,4724472,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,94156132,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,120368108,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,120368110,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,146708927,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,146708928,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,146708929,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,146708930,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,146921934,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,159537411,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
+way,37881238,Spittastraße,+,Familie Spitta,Gerber-Familie
+way,838520886,Spittastraße,+,Familie Spitta,Gerber-Familie
+way,861354896,Spittastraße,+,Familie Spitta,Gerber-Familie
+way,900934817,Spittastraße,+,Familie Spitta,Gerber-Familie
+way,37881240,Arthur-Bergmann-Straße,M,Arthur Bergmann,Gründer einer Fein-Jute-Garn-Spinnerei
+way,37881239,Tiedestraße,M,Tiede und Söhne,Kaufleute in Brandenburg an der Havel
+way,4748008,Gottfried-Krüger-Straße,M,Gottfried Krüger,Brandenburger Fabrikant und Kommerzienrat
+way,37881234,Kummerléstraße,M,Alfred und Emil Kummerlé,Eigentümer einer Kammgarnspinnerei
+way,37881236,Oskar-Wiederholz-Straße,M,Oskar Wilhelm Wiederholz,Gründer der Lineol Aktiengesellschaft
+way,37881246,Gebrüder-Silbermann-Straße,M,Gebrüder Silbermann,Eigentümer einer Hutfabrik in Brandenburg an der Havel
