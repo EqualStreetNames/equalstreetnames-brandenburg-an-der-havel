@@ -17,4 +17,4 @@ Furthermore you can contribute to OpenStreetMap by adding the tag name:etymology
 
 ### Helpful links
 
-[Street index](https://www.dresden.de/de/leben/stadtportrait/statistik/publikationen/strassenverzeichnis.php) with genders
+[Street index](https://www.dielinke-stadt-brb.de/fileadmin/brandenburg-havel/schriftlich/Antworten/antw-325-19-strassennamen.pdf) with genders
