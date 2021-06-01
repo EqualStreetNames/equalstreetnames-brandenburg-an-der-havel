@@ -32,7 +32,6 @@ Akazienweg,,,,way
 "Am Gleisdreieck",,,,way
 "Am Gördensee",,,,way
 "Am Gördenwald",,,,way
-"Am Görneweg",,,,way
 "Am Güterbahnhof",,,,way
 "Am Hafen",,,,way
 "Am Hang",,,,way
@@ -41,7 +40,6 @@ Akazienweg,,,,way
 "Am Heidekrug",,,,way
 "Am Huck",,,,way
 "Am Industriegelände",,,,way
-"Am Jakobsgraben",,,,way
 "Am Kletschenberg",,,,way
 "Am Klostergraben",,,,way
 "Am Lokwerk",,,,way
@@ -166,7 +164,6 @@ Falkenstraße,,,,way
 Fasanenbogen,,,,way
 Feldstraße,,,,way
 Feldweg,,,,way
-Felsbergstraße,,,,way
 Feuerwehrgasse,,,,way
 Fichtenweg,,,,way
 Finkenweg,,,,way
@@ -181,7 +178,6 @@ Freiheitsweg,,,,way
 "Freitaler Weg",,,,way
 Friedhofstraße,,,,way
 "Friedrichshafener Straße",,,,way
-Friesenstraße,,,,way
 Froschallee,,,,way
 Fuchsbruch,,,,way
 Gartenstraße,,,,way
@@ -191,13 +187,9 @@ Geranienweg,,,,way
 Gerberaweg,,,,way
 Gertraudenstraße,,,,way
 Gladiolenweg,,,,way
-Gödenstraße,,,,way
 Gördenallee,,,,way
 Görisgräben,,,,way
-Görneweg,,,,way
 Gorrenberg,,,,way
-Gotthardtkirchplatz,,,,way
-Gotthardtwinkel,,,,way
 "Göttiner Bahnhofstraße",,,,way
 "Göttiner Landstraße",,,,way
 "Göttiner Schulstraße",,,,way
@@ -218,16 +210,13 @@ Großmathenweg,,,,way
 "Grüne Aue",,,,way
 "Grüner Weg",,,,way
 "Grüninger Landstraße",,,,way
-Gutenbergstraße,,,,way
 Hafenstraße,,,,way
 "Hagelberger Straße",,,,way
-Hammerstraße,,,,way
 Handwerkerhof,,,,way
 "Hannoversche Straße",,,,way
 Harlungerstraße,,,,way
 Haselnussweg,,,,way
 Hauptstraße,,,,way
-Hausmannstraße,,,,way
 Havelbogen,,,,way
 Havelstraße,,,,way
 Havelufer,,,,way
@@ -243,7 +232,6 @@ Hufenweg,,,,way
 "Im Winkel",,,,way
 Immenweg,,,,way
 "Industriegebiet Hohenstücken",,,,relation
-Jahnstraße,,,,way
 Jasminweg,,,,way
 "Jeseriger Weg",,,,way
 "Johannisburger Anger",,,,way
@@ -255,7 +243,6 @@ Jungfernsteig,,,,way
 Kanalstraße,,,,way
 Kapellenstraße,,,,way
 Kastanienweg,,,,way
-Katharinenkirchplatz,,,,way
 "Ketzürer Weg",,,,way
 Kiaustraße,,,,way
 Kiebitzsteig,,,,way
@@ -300,7 +287,6 @@ Linienstraße,,,,way
 Luisenhof,,,,way
 "Lünower Weg",,,,way
 Lupinenweg,,,,way
-Maerckerstraße,,,,way
 "Magdeburger Heerstraße",,,,way
 "Magdeburger Landstraße",,,,way
 "Magdeburger Straße",,,,way
@@ -315,10 +301,8 @@ Margueritenweg,,,,way
 "Märkische Aue",,,,way
 Marktplatz,,,,way
 Marktstraße,,,,way
-Massowburg,,,,way
 Maulbeerweg,,,,way
 Mensaweg,,,,way
-Meyerstraße,,,,way
 Mielitzweg,,,,way
 Mittelstraße,,,,way
 Mittelweg,,,,way
@@ -347,8 +331,6 @@ Neu-Plauer-Weg,,,,way
 Nordring,,,,way
 "Nußlocher Weg",,,,way
 "Oldenburger Straße",,,,way
-Otto-Gartz-Straße,,,,way
-Otto-Metzenthin-Straße,,,,way
 Packhofstraße,,,,way
 Pählbrücke,,,,way
 Pappelweg,,,,way
@@ -359,7 +341,6 @@ Patendamm,,,,way
 Paterdamm,,,,way
 "Paterdammer Weg",,,,way
 Paukrierbrücke,,,,way
-Paul-Röstel-Straße,,,,way
 Paulinerstraße,,,,way
 Petersilienstraße,,,,way
 "Pfefferländer Weg",,,,way
@@ -390,14 +371,12 @@ Ratsweg,,,,way
 "Reckahner Straße",,,,way
 "Reckahner Weg",,,,way
 Regattaring,,,,way
-Reimerstraße,,,,way
 Rhinweg,,,,way
 "Riesaer Weg",,,,way
 "Rietzer Straße",,,,way
 "Rietzer Weg",,,,way
 Ritterstraße,,,,way
 Robinienweg,,,,way
-Rochowstraße,,,,way
 Rosengasse,,,,way
 Rosenweg,,,,way
 Rotdornweg,,,,way
@@ -454,7 +433,6 @@ Tannenweg,,,,way
 Temnitz,,,,way
 "Thüringer Straße",,,,way
 "Tieckower Weg",,,,way
-Tismarstraße,,,,way
 Torfbogen,,,,way
 Trauerberg,,,,way
 Trennweg,,,,way
@@ -489,7 +467,6 @@ Werderstraße,,,,way
 "Weseramer Straße",,,,way
 "Wiener Straße",,,,way
 Wiesenweg,,,,way
-Wilhelm-Gottschalk-Straße,,,,way
 Wilhelmsdorf,,,,way
 "Wilhelmsdorfer Landstraße",,,,way
 "Wilhelmsdorfer Straße",,,,way
