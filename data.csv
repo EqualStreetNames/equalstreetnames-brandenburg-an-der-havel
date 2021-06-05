@@ -1,71 +1,70 @@
 type,id,name,gender,person,description
-way,4640087,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,4682503,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,4694598,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,29137443,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,133874116,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,171985872,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,321123470,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,321131951,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,321134463,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,358303061,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,358303062,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,450728355,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,512643987,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,802595717,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,802595718,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,802595719,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,802595720,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,802595721,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,802595722,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,802595723,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,802595724,Zanderstraße,M,Georg Friedrich Zander,Staatsoberhaupt von Brandenburg an der Havel (1821-1839)
-way,4724472,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,94156132,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,120368108,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,120368110,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,146708927,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,146708928,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,146708929,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,146708930,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,146921934,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,159537411,Venise-Gosnat-Straße,M,Venise Gosnat,stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970
-way,37881238,Spittastraße,+,Familie Spitta,Gerber-Familie
-way,838520886,Spittastraße,+,Familie Spitta,Gerber-Familie
-way,861354896,Spittastraße,+,Familie Spitta,Gerber-Familie
-way,900934817,Spittastraße,+,Familie Spitta,Gerber-Familie
-way,37881240,Arthur-Bergmann-Straße,M,Arthur Bergmann,Gründer einer Fein-Jute-Garn-Spinnerei
-way,37881239,Tiedestraße,M,Tiede und Söhne,Kaufleute in Brandenburg an der Havel
-way,4748008,Gottfried-Krüger-Straße,M,Gottfried Krüger,Brandenburger Fabrikant und Kommerzienrat
-way,37881234,Kummerléstraße,M,Alfred und Emil Kummerlé,Eigentümer einer Kammgarnspinnerei
-way,37881236,Oskar-Wiederholz-Straße,M,Oskar Wilhelm Wiederholz,Gründer der Lineol Aktiengesellschaft
-way,37881246,Gebrüder-Silbermann-Straße,M,Gebrüder Silbermann,Eigentümer einer Hutfabrik in Brandenburg an der Havel
-way,4855767,Brösestraße,M,Johann Gottfried Bröse,Schornsteinfegermeister und Stadtrat *1786-†1849
-way,5030846,Walther-Ausländer-Straße,M,Walther Ausländer,Staatsoberhaupt von Brandenburg an der Havel (1920–1926)
-way,4864128,Reuscherstraße,M,Carl Reuscher,Staatsoberhaupt von Brandenburg an der Havel (1871–1897)
-way,434972076,Reuscherstraße,M,Carl Reuscher,Staatsoberhaupt von Brandenburg an der Havel (1871–1897)
-way,43811304,Carl-Ferdinand-Wiesike-Straße,M,Carl Ferdinand Wiesike,Gutsbesitzer in Plaue *1798-†1880
-way,71866821,Baebenrothufer,M,Friedrich Baebenroth,Tuchfabrikant
-way,446881100,Koppehlstraße,F,Luise Amalie Henriette Koppehl,Brandenburger Bürgerin - Gründerin einer Stiftung für bedürftige Frauen †1886
-way,305778786,Paul-Kaiser-Reka-Platz,M,Paul Kaiser-Reka,Instrumental-Virtuose und Musik-Artist *1881–†1963
-way,119011729,Johann-Carl-Sybel-Straße,M,Johann Carl Sybel,Brandenburger Mediziner
-way,5030848,Felsbergstraße,M,Otto Felsberg,Direktor der städtischen Mädchenschule und Prähistoriker *1860–†1941
-way,4720784,Friesenstraße,M,Unbekannt,keine Information vorhanden
-way,72095726,Gödenstraße,F,Dorothea Göden,Unterstützerin eines Armenhaus
-way,72095732,Kleiststraße,F,Charlotte Kleist,Unterstützerin verschiedener Wohltätigkeitseinrichtungen für Frauen und Kinder *1804-†1881
-way,729539525,Kleiststraße,F,Charlotte Kleist,Unterstützerin verschiedener Wohltätigkeitseinrichtungen für Frauen und Kinder *1804-†1881
-way,71866830,Maerckerstraße,F,Marie Maerker,Unterstützerin von Armen und bedürftigen Kranken
-way,300977699,Massowburg,M,Unbekannt,mögl. Adelsgeschlecht
-way,301427895,Massowburg,M,Unbekannt,mögl. Adelsgeschlecht
-way,67901875,Meyerstraße,M,Meyer,mögl. Seidenfabrikant um 1800
-way,71896562,Meyerstraße,M,Meyer,mögl. Seidenfabrikant um 1800
-way,72095731,Otto-Gartz-Straße,M,Otto Gartz,Mitbegründer des Märkischen Arbeiter-Turnerbundes *1859-†1931
-way,250692261,Otto-Gartz-Straße,M,Otto Gartz,Mitbegründer des Märkischen Arbeiter-Turnerbundes *1859-†1931
-way,37881237,Otto-Metzenthin-Straße,M,Otto Metzenthin,mögl. Tuchfabrikant und Kommerzienrat
-way,76706635,Paul-Röstel-Straße,M,Paul Röstel,keine Information vorhanden
-way,76706636,Paul-Röstel-Straße,M,Paul Röstel,keine Information vorhanden
-way,72152261,Reimerstraße,F,Unbekannt,keine Information vorhanden
-way,4747605,Tismarstraße,F,Karoline Tismar,Unterstützerin hilfebedürftiger Frauen †1857
-way,5064385,Wilhelm-Gottschalk-Straße,M,Unbekannt,keine Information vorhanden
-way,86358922,Wilhelm-Gottschalk-Straße,M,Unbekannt,keine Information vorhanden
-
+way,37881238,Spittastraße,+,"Familie Spitta",Gerber-Familie
+way,838520886,Spittastraße,+,"Familie Spitta",Gerber-Familie
+way,861354896,Spittastraße,+,"Familie Spitta",Gerber-Familie
+way,900934817,Spittastraße,+,"Familie Spitta",Gerber-Familie
+way,72095726,Gödenstraße,F,"Dorothea Göden","Unterstützerin eines Armenhaus"
+way,72095732,Kleiststraße,F,"Charlotte Kleist","Unterstützerin verschiedener Wohltätigkeitseinrichtungen für Frauen und Kinder *1804-†1881"
+way,729539525,Kleiststraße,F,"Charlotte Kleist","Unterstützerin verschiedener Wohltätigkeitseinrichtungen für Frauen und Kinder *1804-†1881"
+way,446881100,Koppehlstraße,F,"Luise Amalie Henriette Koppehl","Brandenburger Bürgerin - Gründerin einer Stiftung für bedürftige Frauen †1886"
+way,71866830,Maerckerstraße,F,"Marie Maerker","Unterstützerin von Armen und bedürftigen Kranken"
+way,72152261,Reimerstraße,F,Unbekannt,"keine Information vorhanden"
+way,4747605,Tismarstraße,F,"Karoline Tismar","Unterstützerin hilfebedürftiger Frauen †1857"
+way,37881240,Arthur-Bergmann-Straße,M,"Arthur Bergmann","Gründer einer Fein-Jute-Garn-Spinnerei"
+way,71866821,Baebenrothufer,M,"Friedrich Baebenroth",Tuchfabrikant
+way,4855767,Brösestraße,M,"Johann Gottfried Bröse","Schornsteinfegermeister und Stadtrat *1786-†1849"
+way,43811304,Carl-Ferdinand-Wiesike-Straße,M,"Carl Ferdinand Wiesike","Gutsbesitzer in Plaue *1798-†1880"
+way,5030848,Felsbergstraße,M,"Otto Felsberg","Direktor der städtischen Mädchenschule und Prähistoriker *1860–†1941"
+way,4720784,Friesenstraße,M,Unbekannt,"keine Information vorhanden"
+way,37881246,Gebrüder-Silbermann-Straße,M,"Gebrüder Silbermann","Eigentümer einer Hutfabrik in Brandenburg an der Havel"
+way,4748008,Gottfried-Krüger-Straße,M,"Gottfried Krüger","Brandenburger Fabrikant und Kommerzienrat"
+way,119011729,Johann-Carl-Sybel-Straße,M,"Johann Carl Sybel","Brandenburger Mediziner"
+way,37881234,Kummerléstraße,M,"Alfred und Emil Kummerlé","Eigentümer einer Kammgarnspinnerei"
+way,300977699,Massowburg,M,Unbekannt,"mögl. Adelsgeschlecht"
+way,301427895,Massowburg,M,Unbekannt,"mögl. Adelsgeschlecht"
+way,67901875,Meyerstraße,M,Meyer,"mögl. Seidenfabrikant um 1800"
+way,71896562,Meyerstraße,M,Meyer,"mögl. Seidenfabrikant um 1800"
+way,37881236,Oskar-Wiederholz-Straße,M,"Oskar Wilhelm Wiederholz","Gründer der Lineol Aktiengesellschaft"
+way,72095731,Otto-Gartz-Straße,M,"Otto Gartz","Mitbegründer des Märkischen Arbeiter-Turnerbundes *1859-†1931"
+way,250692261,Otto-Gartz-Straße,M,"Otto Gartz","Mitbegründer des Märkischen Arbeiter-Turnerbundes *1859-†1931"
+way,37881237,Otto-Metzenthin-Straße,M,"Otto Metzenthin","mögl. Tuchfabrikant und Kommerzienrat"
+way,305778786,Paul-Kaiser-Reka-Platz,M,"Paul Kaiser-Reka","Instrumental-Virtuose und Musik-Artist *1881–†1963"
+way,76706635,Paul-Röstel-Straße,M,"Paul Röstel","keine Information vorhanden"
+way,76706636,Paul-Röstel-Straße,M,"Paul Röstel","keine Information vorhanden"
+way,4864128,Reuscherstraße,M,"Carl Reuscher","Staatsoberhaupt von Brandenburg an der Havel (1871–1897)"
+way,434972076,Reuscherstraße,M,"Carl Reuscher","Staatsoberhaupt von Brandenburg an der Havel (1871–1897)"
+way,37881239,Tiedestraße,M,"Tiede und Söhne","Kaufleute in Brandenburg an der Havel"
+way,4724472,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,94156132,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,120368108,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,120368110,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,146708927,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,146708928,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,146708929,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,146708930,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,146921934,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,159537411,Venise-Gosnat-Straße,M,"Venise Gosnat","stellv. Bürgermeister der Stadt Ivry-sur-Seine †1970"
+way,5030846,Walther-Ausländer-Straße,M,"Walther Ausländer","Staatsoberhaupt von Brandenburg an der Havel (1920–1926)"
+way,5064385,Wilhelm-Gottschalk-Straße,M,Unbekannt,"keine Information vorhanden"
+way,86358922,Wilhelm-Gottschalk-Straße,M,Unbekannt,"keine Information vorhanden"
+way,4640087,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,4682503,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,4694598,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,29137443,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,133874116,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,171985872,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,321123470,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,321131951,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,321134463,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,358303061,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,358303062,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,450728355,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,512643987,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,802595717,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,802595718,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,802595719,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,802595720,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,802595721,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,802595722,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,802595723,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
+way,802595724,Zanderstraße,M,"Georg Friedrich Zander","Staatsoberhaupt von Brandenburg an der Havel (1821-1839)"
