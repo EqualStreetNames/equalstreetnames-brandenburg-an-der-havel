@@ -1,3 +1,9 @@
+**Aktueller Status: fehlende Informationen für:**
+* Reimerstraße
+* Friesenstraße
+* Paul-Röstel-Straße
+* Wilhelm-Gottschalk-Straße
+
 # EqualStreetNames Brandenburg an der Havel
 
 The map shows the streets and places in [Brandenburg an der Havel, Germany](https://www.openstreetmap.org/relation/62470) (from [OpenStreetMap](http://osm.org/)), tagged with [`name:etymology:wikidata`](https://wiki.openstreetmap.org/wiki/Key:name:etymology:wikidata) and visualizes the gender-distribution of their name.
