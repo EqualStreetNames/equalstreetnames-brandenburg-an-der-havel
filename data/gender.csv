@@ -1,5 +1,9 @@
 name,source,gender,wikidata,type
 Geschwister-Scholl-Straße,wikidata,+,Q57820;Q76972,way
+"Berner Straße",wikidata,-,Q70,way
+Koenigsmarckstraße,wikidata,-,Q30337902,way
+"Prager Straße",wikidata,-,Q1085,way
+"zur Königsmarckstraße",wikidata,-,Q30337902,way
 "Am Elisabethhof",wikidata,F,Q159862,way
 Clara-Zetkin-Straße,wikidata,F,Q75823,way
 Gertrud-Piter-Platz,wikidata,F,Q1515653,way
